@@ -11,4 +11,4 @@ console.log(path.dirname(__filename));
 console.log(path,extname(__filename));
 
 //Create Path Object 
-c
+console.log(path.parse(__filename).base);
