@@ -4,7 +4,7 @@ class Person {
         this.age = age;
     }
     greeting() {
-        console.log(`my name is ${this.name} and i am ${this.age}`)
+        console.log(`My name is ${this.name} and I am ${this.age}`)
     }
 }
 
